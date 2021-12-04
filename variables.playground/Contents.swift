@@ -21,3 +21,6 @@ thirthTitle = "Hello Swift World !"
 
 // darttaki ?? operatör kullanımının aynısı
 print(firstTitle ?? "null value",secondTitle,thirthTitle)
+
+
+
